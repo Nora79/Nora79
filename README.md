@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Horseimage](https://i.pinimg.com/originals/81/df/16/81df16544f76a1045cfb86a508ae859f.jpg)
 <!--
 **Nora79/Nora79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
